@@ -1,4 +1,3 @@
-import React from "react";
 import parse from "html-react-parser";
 interface HtmlContentRendererProps {
   htmlString: string; // Declare the prop type as a string

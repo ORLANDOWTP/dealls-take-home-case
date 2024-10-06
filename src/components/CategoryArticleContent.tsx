@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef } from "react";
 import axios from "axios";
 import ArticleCard from "../components/ArticleCard";
 import { DataItem, DataResponse } from "../models/GetAllArticleResponse"; // Adjust path based on your folder structure

@@ -1,4 +1,3 @@
-import React from "react";
 import CategoryArticleContent from "../components/CategoryArticleContent";
 import { useLocation } from "react-router-dom";
 

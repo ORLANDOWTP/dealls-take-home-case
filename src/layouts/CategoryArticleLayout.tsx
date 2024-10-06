@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import axios from "axios";
 import CategoryArticleContent from "../components/CategoryArticleContent";
 import { ArticleCategory } from "../models/ArticleCategory";
