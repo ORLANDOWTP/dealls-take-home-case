@@ -1,4 +1,4 @@
-interface Category {
+export interface ArticleCategory {
     id: number;
     name: string;
     created_at: string;
